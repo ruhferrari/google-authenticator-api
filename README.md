@@ -4,26 +4,26 @@ This project works integrated to the Google Authenticator app and provides an au
 
 ## Getting Started
 
-The version available runs on a localhost server by the url http://localhost:8080/authentication.
+The version available runs on a localhost server by the url http://localhost:8080/authentication after install and running.
 
 ### Prerequisites
 
 The prerequesites needed are:
-    - Node.js v6.10.1+
-    - Any browser (e.g. Google Chrome, Safari, Internet Explorer)
-    - Internet connection to download the packages
+#### -Node.js v6.10.1+
+#### -Any browser (e.g. Google Chrome, Safari, Internet Explorer)
+#### -Internet connection to download the packages
 
 ### Installing
 
-The install occurs according to the follow steps:
+After clone or download the project, the install occurs according to the follow command inside the local folder:
 
 ```
-npm install google_auth_node_api-1.0.0
+npm install
 ```
 
 ## Running the project
 
-To start the server put the line below in your command line tool:
+To start the server, inside the project folder put the line below in your command line tool:
 
 ```
 node server.js
