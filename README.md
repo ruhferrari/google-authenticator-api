@@ -9,9 +9,9 @@ The version available runs on a localhost server by the url http://localhost:808
 ### Prerequisites
 
 The prerequesites needed are:
-#### -Node.js v6.10.1+
-#### -Any browser (e.g. Google Chrome, Safari, Internet Explorer)
-#### -Internet connection to download the packages
+* Node.js v6.10.1+
+* Any browser (e.g. Google Chrome, Safari, Internet Explorer)
+* Internet connection to download the packages
 
 ### Installing
 
@@ -28,6 +28,10 @@ To start the server, inside the project folder put the line below in your comman
 ```
 node server.js
 ```
+## Running the tests
+
+To run some tests is recommended to download the Google Authenticator app on Apple ou Google stores.
+After register yourself on the app, you can choose the input format (qrcode or manual) to send the information and validate the token created by the app.
 
 ## Built With
 

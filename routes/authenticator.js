@@ -2,7 +2,7 @@ var speakeasy = require('speakeasy');
 var QRCode = require('qrcode');
 
 module.exports = function (app) {
-    var secret = speakeasy.generateSecret({name:"Sensedia Challenge",issuer:"NodeAPI",length:20});
+    var secret = speakeasy.generateSecret({name:"Token Generator",issuer:"NodeAPI",length:20});
 
     // Generates the QRCode and the Secret to be used in Google Authenticator
     QRCode.toDataURL(secret.otpauth_url, function(err, data_url) {      
