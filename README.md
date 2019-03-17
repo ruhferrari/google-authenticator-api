@@ -1,6 +1,6 @@
 # Google Authenticator API
 
-This project works integrated to the Google Authenticator app and provides an authenticator API to read a qrcode or a secret and validates the token generate after the App consumption. 
+This project works integrated with Google Authenticator app and provides an authentication API to read a qrcode or a secret and validate the token generate after the app input.
 
 ## Getting Started
 
