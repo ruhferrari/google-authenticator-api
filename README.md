@@ -44,7 +44,7 @@ For now, this is a one shot version (v.1.0.0) until new requisites be demanded.
 
 ## Authors
 
-* **Lucas Ferrari** - *Initial work* - [ruferrari](https://github.com/ruferrari)
+* **Lucas Ferrari** - *Initial work* - [ruferrari](https://github.com/ruhferrari)
 
 ## License
 
